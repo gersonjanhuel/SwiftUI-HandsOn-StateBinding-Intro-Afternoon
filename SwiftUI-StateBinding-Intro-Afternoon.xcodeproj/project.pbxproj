@@ -11,6 +11,7 @@
 		7C992E7127FD86140068580C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C992E7027FD86140068580C /* ContentView.swift */; };
 		7C992E7327FD86160068580C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C992E7227FD86160068580C /* Assets.xcassets */; };
 		7C992E7627FD86160068580C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C992E7527FD86160068580C /* Preview Assets.xcassets */; };
+		7C992E7D27FD8ECD0068580C /* PassingDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C992E7C27FD8ECD0068580C /* PassingDataView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7C992E7027FD86140068580C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7C992E7227FD86160068580C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C992E7527FD86160068580C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7C992E7C27FD8ECD0068580C /* PassingDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingDataView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7C992E6E27FD86140068580C /* SwiftUI_StateBinding_Intro_AfternoonApp.swift */,
 				7C992E7027FD86140068580C /* ContentView.swift */,
+				7C992E7C27FD8ECD0068580C /* PassingDataView.swift */,
 				7C992E7227FD86160068580C /* Assets.xcassets */,
 				7C992E7427FD86160068580C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C992E7D27FD8ECD0068580C /* PassingDataView.swift in Sources */,
 				7C992E7127FD86140068580C /* ContentView.swift in Sources */,
 				7C992E6F27FD86140068580C /* SwiftUI_StateBinding_Intro_AfternoonApp.swift in Sources */,
 			);
